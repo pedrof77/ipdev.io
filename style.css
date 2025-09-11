@@ -259,7 +259,7 @@ p { margin-bottom: 15px; }
 }
 
 /* --- SEÇÃO OFERTA FINAL --- */
-.final-cta { text-align: center; background: linear-gradient(135deg, var(--cor-primaria), var(--cor-secundaria)); color: var(--cor-branco); }
+.final-cta { text-align: center; background: linear-gradient(135deg, ( var(--cor-primaria)), var(--cor-secundaria)); color: var(--cor-branco); }
 .final-cta h2 { color: var(--cor-branco); }
 .final-product-image { margin-bottom: 20px; }
 .final-checklist {
